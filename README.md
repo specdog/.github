@@ -1,6 +1,6 @@
 # specdog
 
-The spec genome platform. Feed the dog. Ship with specs.
+The spec genome platform. Ship with .dog files.
 
 ## Install
 
@@ -18,8 +18,4 @@ dotdog validate
 
 | Repo | What |
 |------|------|
-| [dotdog](https://github.com/specdog/dotdog) | CLI + format spec |
-
-## Philosophy
-
-The spec is the source of truth.
+| [spec](https://github.com/specdog/spec) | dotdog CLI + format spec |
