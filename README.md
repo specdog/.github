@@ -11,15 +11,11 @@ dotdog validate
 
 ## Format
 
-- `.dog` — human-written spec genome (markdown + YAML). Free forever.
-- `.dag` — machine-compiled graph (JSON). Enterprise.
+- `.dog` — human-written spec genome. Free forever.
+- `.dag` — machine-compiled graph. Enterprise.
 
 ## Projects
 
 | Repo | What |
 |------|------|
 | [spec](https://github.com/specdog/spec) | dotdog CLI + format spec |
-
-## Philosophy
-
-The spec IS the software. Dogfood or die.
