@@ -1,6 +1,6 @@
 # specdog
 
-The spec genome platform. Ship with .dog files.
+> **Feed the dog. Ship with specs.** — The spec genome platform.
 
 ## Install
 
@@ -11,11 +11,19 @@ dotdog validate
 
 ## Format
 
-- `.dog` — human-written spec genome. Free forever.
-- `.dag` — machine-compiled graph. Enterprise.
+- `.dog` — human-written spec genome (markdown + YAML). Free forever.
+- `.dag` — machine-compiled graph (JSON). Integrity hash, provable token savings. For AI agents.
 
 ## Projects
 
 | Repo | What |
 |------|------|
-| [spec](https://github.com/specdog/spec) | dotdog CLI + format spec |
+| [dotdog](https://github.com/specdog/dotdog) | CLI + format spec + MCP server |
+| [dotdog on npm](https://www.npmjs.com/package/dotdog) | `npm install -g dotdog` |
+| [Docs](https://specdog.github.io/dotdog) | Full documentation |
+
+## Links
+
+- [GitHub](https://github.com/specdog)
+- [Website](https://specdog.github.io)
+- [npm](https://www.npmjs.com/package/dotdog)
