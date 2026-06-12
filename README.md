@@ -1,6 +1,6 @@
 # specdog
 
-The spec genome platform. Ship with .dog files.
+The spec genome platform. Feed the dog. Ship with specs.
 
 ## Install
 
@@ -11,15 +11,15 @@ dotdog validate
 
 ## Format
 
-- `.dog` — human-written spec genome (markdown + YAML). Free forever.
-- `.dag` — machine-compiled graph (JSON). Enterprise.
+- `.dog` — human-written spec genome. Free forever.
+- `.dag` — machine-compiled graph. Enterprise.
 
 ## Projects
 
 | Repo | What |
 |------|------|
-| [spec](https://github.com/specdog/spec) | dotdog CLI + format spec |
+| [dotdog](https://github.com/specdog/dotdog) | CLI + format spec |
 
 ## Philosophy
 
-The spec IS the software. Dogfood or die.
+The spec is the source of truth.
