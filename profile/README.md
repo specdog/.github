@@ -11,3 +11,7 @@ We build tools for spec-driven development. Write specs. Validate them. Let AI a
 
 - [specdog.github.io/dotdog](https://specdog.github.io/dotdog)
 - [npm: dotdog](https://www.npmjs.com/package/dotdog)
+
+## Author
+
+A specdog project by **[Justin DiClemente](https://github.com/logohere)**.
